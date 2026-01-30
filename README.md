@@ -60,7 +60,7 @@ by reducing ride cancellations using data-driven insights.
 ---
 
 ## 👤 Author
-**Shaik Arfath**  
+**Shaik Arafath**  
 Aspiring Data Analyst
 
 
